@@ -1,6 +1,7 @@
 "use strict";
 
         const calculateFV = () => {
+            // results panel reference
             const resultDiv = document.getElementById("result");
 
             // TOGGLE LOGIC
